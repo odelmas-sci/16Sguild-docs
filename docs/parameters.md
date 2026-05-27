@@ -1,8 +1,3 @@
----
-layout: page
-title: Parameters
----
-
 # Parameters
 
 Descriptions of all input parameters for guild-based analysis of 16S-rRNA sequencing data based on [Wu and Zhao et al., 2021](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00840-y).

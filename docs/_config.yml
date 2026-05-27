@@ -1,9 +1,0 @@
-title: 16Sguild
-description: Guild-based 16S-rRNA sequencing analysis pipeline
-remote_theme: "jekyll/minima@1e8a445"
-header_pages:
-  - basic-workflow.md
-  - parameters.md
-  - output.md
-  - changelog.md
-  - faq.md
