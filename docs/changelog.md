@@ -1,8 +1,3 @@
----
-layout: page
-title: Change Log
----
-
 # Change Log
 
 ---

@@ -1,8 +1,3 @@
----
-layout: page
-title: Home
----
-
 # 16Sguild: Guild-based 16S-rRNA sequencing analysis pipeline
 
 [![16S Guild Database](assets/16SguildDatabaseButton.PNG)](https://biostats-shinyr.kumc.edu/16SguildDB/)
@@ -31,7 +26,7 @@ cd 16Sguild
 nextflow run main.nf -params-file examples/params.yml
 ```
 
-Detailed usage examples can be found in the [Basic Workflow documentation](basic-workflow/).
+Detailed usage examples can be found in the [Basic Workflow documentation](basic-workflow.md).
 
 > **Note:** The pipeline requires [Nextflow](https://www.nextflow.io/) (version 24.04.0 or later) and either [Docker](https://docs.docker.com/get-docker/) or [Singularity/Apptainer](https://apptainer.org/).
 
