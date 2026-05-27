@@ -1,4 +1,5 @@
 site_name: 16Sguild
+site_url: https://zhao-microbiome-lab.github.io/16Sguild-docs/
 site_description: Guild-based 16S-rRNA sequencing analysis pipeline
 
 docs_dir: docs
