@@ -108,9 +108,9 @@ This pipeline uses the following containers by default (defined in `conf/default
 
 - FastQC: `docker://biocontainers/fastqc:v0.11.9_cv8`
 - MultiQC: `docker://multiqc/multiqc:latest`
-- QIIME2: `docker://zhao-microbiome-lab/16sguild:qiime2_2024.2_1.0.0`
+- QIIME2: `docker://rachelgriffard/16sguild:qiime2_2024.2_1.0.0`
 - FastSpar: `quay.io/biocontainers/fastspar:1.0.0--h7f8d780_0`
-- R: `docker://zhao-microbiome-lab/16sguild:r_env_1.0.9`
+- R: `docker://rachelgriffard/16sguild:r_env_1.0.9`
 - Picrust2: `quay.io/biocontainers/picrust2:2.6.2--pyhdfd78af_1`
 
 No manual installation of software is needed—these containers are pulled automatically.
